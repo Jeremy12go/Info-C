@@ -1,0 +1,3 @@
+C:/Users/jerem/Downloads/Cosas/Scripts C/Repo/code-C-n-1/Ordenamiento/Busqueda/BusquedaBinaria/cmake-build-debug/CMakeFiles/BusquedaBinaria.dir
+C:/Users/jerem/Downloads/Cosas/Scripts C/Repo/code-C-n-1/Ordenamiento/Busqueda/BusquedaBinaria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jerem/Downloads/Cosas/Scripts C/Repo/code-C-n-1/Ordenamiento/Busqueda/BusquedaBinaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
