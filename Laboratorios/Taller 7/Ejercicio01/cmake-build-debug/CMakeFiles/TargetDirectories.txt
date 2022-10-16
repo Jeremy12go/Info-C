@@ -1,3 +1,0 @@
-C:/Users/jerem/Downloads/Cosas/Scripts C/Repo/code-C-n-1/Laboratorios/Taller 7/Ejercicio01/cmake-build-debug/CMakeFiles/Ejercicio01.dir
-C:/Users/jerem/Downloads/Cosas/Scripts C/Repo/code-C-n-1/Laboratorios/Taller 7/Ejercicio01/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jerem/Downloads/Cosas/Scripts C/Repo/code-C-n-1/Laboratorios/Taller 7/Ejercicio01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
