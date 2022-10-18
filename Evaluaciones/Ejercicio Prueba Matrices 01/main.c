@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/*Ejercicio de intercalado de arreglos, se debe imprimir un arreglo que contenga los numeros de indice par de arregloA interacalados
-con los numeros de los impares de arregloB*/
+/*Considerando dos listas A y B, de tamañoS potencialmente distintos, construir una tercera lista C, que contenga los elementos intercalados de ambas listas.
+Para crear la lista C, se debe tomar el primer elemento de la posicion impar de la lista A y luego el primer elemento de la posicion par de lista B, así hasta
+que no queden elementos en ninguna de las listas. A B A B A B*/
 
 void Imprimir(int largo, int arreglo[largo]){
     printf("[ ");
